@@ -130,7 +130,7 @@ class my_ticketsAPI extends ticketsAPI {
 					"output" => [
 						'headers' => $headers,
 						'raw' => $raw,
-						'results' => $results,
+						'dom' => $results,
 						"relationships" => $relationships,
 						"tickets" => $tickets,
 					],
@@ -143,7 +143,7 @@ class my_ticketsAPI extends ticketsAPI {
 					"output" => [
 						'headers' => $this->Auth->getHeaders('tickets'),
 						'raw' => $raw,
-						'results' => $results,
+						'dom' => $results,
 						"relationships" => $relationships,
 						"tickets" => $tickets,
 					]
