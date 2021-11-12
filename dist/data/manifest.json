@@ -1,7 +1,7 @@
 {
     "repository": {
         "name": "appmaker-my_tickets",
-        "branch": "dev",
+        "branch": "stable",
         "manifest": "\/dist\/data\/manifest.json",
         "host": {
             "git": "https:\/\/github.com\/LouisOuellet\/",
@@ -9,6 +9,6 @@
         }
     },
     "name": "my_tickets",
-    "build": 38,
-    "version": "21.11-dev"
+    "build": 39,
+    "version": "21.11-stable"
 }
