@@ -1,7 +1,7 @@
 {
     "repository": {
         "name": "appmaker-my_tickets",
-        "branch": "pre-release",
+        "branch": "dev",
         "manifest": "\/dist\/data\/manifest.json",
         "host": {
             "git": "https:\/\/github.com\/LouisOuellet\/",
@@ -9,6 +9,6 @@
         }
     },
     "name": "my_tickets",
-    "build": 60,
-    "version": "22.05-pre-release"
+    "build": 61,
+    "version": "22.05-dev"
 }
